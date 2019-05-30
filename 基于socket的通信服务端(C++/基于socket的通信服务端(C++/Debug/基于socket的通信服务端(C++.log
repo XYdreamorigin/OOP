@@ -1,0 +1,6 @@
+﻿  servers.cpp
+F:\作业\C++面向对象\基于socket的通信服务端(C++\基于socket的通信服务端(C++\servers.cpp(701): warning C4018: “>”: 有符号/无符号不匹配
+F:\作业\C++面向对象\基于socket的通信服务端(C++\基于socket的通信服务端(C++\servers.cpp(717): warning C4018: “>”: 有符号/无符号不匹配
+F:\作业\C++面向对象\基于socket的通信服务端(C++\基于socket的通信服务端(C++\servers.cpp(902): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  F:\Windows Kits\10\Include\10.0.17763.0\um\WinSock2.h(1849): note: 参见“inet_ntoa”的声明
+  基于socket的通信服务端(C++.vcxproj -> F:\作业\C++面向对象\基于socket的通信服务端(C++\Debug\基于socket的通信服务端(C++.exe
