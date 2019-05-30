@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(基于socket的通信客户端B.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  client.cpp
+F:\作业\C++面向对象\基于socket的通信客户端B(C++\基于socket的通信客户端B\client.cpp(35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  F:\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  基于socket的通信客户端B.vcxproj -> F:\作业\C++面向对象\基于socket的通信客户端B(C++\Debug\基于socket的通信客户端B(C++.exe
